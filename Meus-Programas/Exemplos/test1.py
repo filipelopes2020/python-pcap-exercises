@@ -4,5 +4,3 @@ def exit2():
     
 exit2()
 
-
-    
