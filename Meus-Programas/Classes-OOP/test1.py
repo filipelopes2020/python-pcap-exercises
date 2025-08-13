@@ -10,3 +10,4 @@ sample_user.introduce()
 print(sample_user.nickname)
 print(sample_user.city)
 
+# adasdas
