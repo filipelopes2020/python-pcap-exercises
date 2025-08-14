@@ -5,9 +5,15 @@ class User:
     def introduce(self):    
         print('Hello, my name is',self.nickname,'and I am from ',self.city)
 
-sample_user = User('Joao', 'Faro')
-sample_user.introduce()
-print(sample_user.nickname)
-print(sample_user.city)
+first_user = User('Joao', 'Faro')
+second_user = User('Joquim', 'Lisboa')
+third_user = User('Rui', 'Tavira')
+first_user.introduce()
+second_user.introduce()
+third_user.introduce()
+# Example of using the User class
 
-# adasdas
+#print(sample_user.nickname)
+#print(sample_user.city)
+
+#
