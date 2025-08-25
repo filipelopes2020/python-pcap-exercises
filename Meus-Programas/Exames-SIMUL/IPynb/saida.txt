@@ -1,0 +1,8 @@
+/c/Users/:
+All Users@
+Default/
+Default User@
+desktop.ini
+mario/
+Public/
+Utilizador/
