@@ -1,0 +1,3 @@
+Hello World
+Esta é a segunda linha
+Terceira linha com write()

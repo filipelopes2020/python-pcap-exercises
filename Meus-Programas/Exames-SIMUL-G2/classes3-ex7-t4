@@ -1,0 +1,18 @@
+```mermaid
+classDiagram
+    direction TB
+    class O
+    class X
+    class Y
+    class A
+    class B
+
+    O <|-- X
+    O <|-- Y
+
+    X <|-- A
+    Y <|-- A
+
+    Y <|-- B
+    X <|-- B
+```

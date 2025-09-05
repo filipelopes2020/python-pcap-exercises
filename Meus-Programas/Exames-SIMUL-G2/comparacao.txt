@@ -1,0 +1,4 @@
+Linha 1 com write
+Linha 2 com write
+Linha 3 com writelines
+Linha 4 com writelines

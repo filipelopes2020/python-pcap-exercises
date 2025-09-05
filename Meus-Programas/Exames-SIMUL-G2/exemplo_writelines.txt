@@ -1,0 +1,3 @@
+Primeira linha com writelines()
+Segunda linha
+Terceira linha
