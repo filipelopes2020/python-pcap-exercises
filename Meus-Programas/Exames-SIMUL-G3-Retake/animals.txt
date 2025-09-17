@@ -1,7 +1,8 @@
 dog
 cat
-lion
+foxn
 fox
 bat
 tiger
-mouse
+fox
+dolphin
