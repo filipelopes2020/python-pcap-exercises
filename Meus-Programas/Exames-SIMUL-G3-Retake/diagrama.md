@@ -1,6 +1,6 @@
 ```mermaid
 classDiagram
-    direction TB
+    direction BT
     class A
     class B
     class C
@@ -10,14 +10,14 @@ classDiagram
     class K2
     class K3
 
-    A <|-- K1
-    B <|-- K1
-    C <|-- K1
+    K1 --> A
+    K1 --> B
+    K1 --> C
 
-    D <|-- K2
-    B <|-- K2
-    E <|-- K2
+    K2 --> D
+    K2 --> B
+    K2 --> E
 
-    D <|-- K3
-    A <|-- K3
+    K3 --> D
+    K3 --> A
 ```
